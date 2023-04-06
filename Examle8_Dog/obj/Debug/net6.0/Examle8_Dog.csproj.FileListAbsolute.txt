@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Examples\Examples\Examle8_Dog\bin\Debug\net6.0\Examle8_Dog.exe
+C:\Users\user\Desktop\Examples\Examples\Examle8_Dog\bin\Debug\net6.0\Examle8_Dog.deps.json
+C:\Users\user\Desktop\Examples\Examples\Examle8_Dog\bin\Debug\net6.0\Examle8_Dog.runtimeconfig.json
+C:\Users\user\Desktop\Examples\Examples\Examle8_Dog\bin\Debug\net6.0\Examle8_Dog.dll
+C:\Users\user\Desktop\Examples\Examples\Examle8_Dog\bin\Debug\net6.0\Examle8_Dog.pdb
+C:\Users\user\Desktop\Examples\Examples\Examle8_Dog\obj\Debug\net6.0\Examle8_Dog.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Examples\Examples\Examle8_Dog\obj\Debug\net6.0\Examle8_Dog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Examples\Examples\Examle8_Dog\obj\Debug\net6.0\Examle8_Dog.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Examples\Examples\Examle8_Dog\obj\Debug\net6.0\Examle8_Dog.AssemblyInfo.cs
+C:\Users\user\Desktop\Examples\Examples\Examle8_Dog\obj\Debug\net6.0\Examle8_Dog.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Examples\Examples\Examle8_Dog\obj\Debug\net6.0\Examle8_Dog.dll
+C:\Users\user\Desktop\Examples\Examples\Examle8_Dog\obj\Debug\net6.0\refint\Examle8_Dog.dll
+C:\Users\user\Desktop\Examples\Examples\Examle8_Dog\obj\Debug\net6.0\Examle8_Dog.pdb
+C:\Users\user\Desktop\Examples\Examples\Examle8_Dog\obj\Debug\net6.0\Examle8_Dog.genruntimeconfig.cache
+C:\Users\user\Desktop\Examples\Examples\Examle8_Dog\obj\Debug\net6.0\ref\Examle8_Dog.dll
