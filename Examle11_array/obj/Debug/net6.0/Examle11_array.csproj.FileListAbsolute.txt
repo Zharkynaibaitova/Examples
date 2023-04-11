@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Examples\Examples\Examle11_array\bin\Debug\net6.0\Examle11_array.exe
+C:\Users\user\Desktop\Examples\Examples\Examle11_array\bin\Debug\net6.0\Examle11_array.deps.json
+C:\Users\user\Desktop\Examples\Examples\Examle11_array\bin\Debug\net6.0\Examle11_array.runtimeconfig.json
+C:\Users\user\Desktop\Examples\Examples\Examle11_array\bin\Debug\net6.0\Examle11_array.dll
+C:\Users\user\Desktop\Examples\Examples\Examle11_array\bin\Debug\net6.0\Examle11_array.pdb
+C:\Users\user\Desktop\Examples\Examples\Examle11_array\obj\Debug\net6.0\Examle11_array.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Examples\Examples\Examle11_array\obj\Debug\net6.0\Examle11_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Examples\Examples\Examle11_array\obj\Debug\net6.0\Examle11_array.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Examples\Examples\Examle11_array\obj\Debug\net6.0\Examle11_array.AssemblyInfo.cs
+C:\Users\user\Desktop\Examples\Examples\Examle11_array\obj\Debug\net6.0\Examle11_array.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Examples\Examples\Examle11_array\obj\Debug\net6.0\Examle11_array.dll
+C:\Users\user\Desktop\Examples\Examples\Examle11_array\obj\Debug\net6.0\refint\Examle11_array.dll
+C:\Users\user\Desktop\Examples\Examples\Examle11_array\obj\Debug\net6.0\Examle11_array.pdb
+C:\Users\user\Desktop\Examples\Examples\Examle11_array\obj\Debug\net6.0\Examle11_array.genruntimeconfig.cache
+C:\Users\user\Desktop\Examples\Examples\Examle11_array\obj\Debug\net6.0\ref\Examle11_array.dll
