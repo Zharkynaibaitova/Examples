@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Examples\Examples\Example9_IntroMethod\bin\Debug\net6.0\Example9_IntroMethod.exe
+C:\Users\user\Desktop\Examples\Examples\Example9_IntroMethod\bin\Debug\net6.0\Example9_IntroMethod.deps.json
+C:\Users\user\Desktop\Examples\Examples\Example9_IntroMethod\bin\Debug\net6.0\Example9_IntroMethod.runtimeconfig.json
+C:\Users\user\Desktop\Examples\Examples\Example9_IntroMethod\bin\Debug\net6.0\Example9_IntroMethod.dll
+C:\Users\user\Desktop\Examples\Examples\Example9_IntroMethod\bin\Debug\net6.0\Example9_IntroMethod.pdb
+C:\Users\user\Desktop\Examples\Examples\Example9_IntroMethod\obj\Debug\net6.0\Example9_IntroMethod.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Examples\Examples\Example9_IntroMethod\obj\Debug\net6.0\Example9_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Examples\Examples\Example9_IntroMethod\obj\Debug\net6.0\Example9_IntroMethod.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Examples\Examples\Example9_IntroMethod\obj\Debug\net6.0\Example9_IntroMethod.AssemblyInfo.cs
+C:\Users\user\Desktop\Examples\Examples\Example9_IntroMethod\obj\Debug\net6.0\Example9_IntroMethod.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Examples\Examples\Example9_IntroMethod\obj\Debug\net6.0\Example9_IntroMethod.dll
+C:\Users\user\Desktop\Examples\Examples\Example9_IntroMethod\obj\Debug\net6.0\refint\Example9_IntroMethod.dll
+C:\Users\user\Desktop\Examples\Examples\Example9_IntroMethod\obj\Debug\net6.0\Example9_IntroMethod.pdb
+C:\Users\user\Desktop\Examples\Examples\Example9_IntroMethod\obj\Debug\net6.0\Example9_IntroMethod.genruntimeconfig.cache
+C:\Users\user\Desktop\Examples\Examples\Example9_IntroMethod\obj\Debug\net6.0\ref\Example9_IntroMethod.dll
