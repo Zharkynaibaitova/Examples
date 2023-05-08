@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Обучение\Examples\Examples\Seminar7C#\bin\Debug\net6.0\Seminar7C#.exe
+C:\Users\user\Desktop\Обучение\Examples\Examples\Seminar7C#\bin\Debug\net6.0\Seminar7C#.deps.json
+C:\Users\user\Desktop\Обучение\Examples\Examples\Seminar7C#\bin\Debug\net6.0\Seminar7C#.runtimeconfig.json
+C:\Users\user\Desktop\Обучение\Examples\Examples\Seminar7C#\bin\Debug\net6.0\Seminar7C#.dll
+C:\Users\user\Desktop\Обучение\Examples\Examples\Seminar7C#\bin\Debug\net6.0\Seminar7C#.pdb
+C:\Users\user\Desktop\Обучение\Examples\Examples\Seminar7C#\obj\Debug\net6.0\Seminar7C#.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Обучение\Examples\Examples\Seminar7C#\obj\Debug\net6.0\Seminar7C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Обучение\Examples\Examples\Seminar7C#\obj\Debug\net6.0\Seminar7C#.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Обучение\Examples\Examples\Seminar7C#\obj\Debug\net6.0\Seminar7C#.AssemblyInfo.cs
+C:\Users\user\Desktop\Обучение\Examples\Examples\Seminar7C#\obj\Debug\net6.0\Seminar7C#.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Обучение\Examples\Examples\Seminar7C#\obj\Debug\net6.0\Seminar7C#.dll
+C:\Users\user\Desktop\Обучение\Examples\Examples\Seminar7C#\obj\Debug\net6.0\refint\Seminar7C#.dll
+C:\Users\user\Desktop\Обучение\Examples\Examples\Seminar7C#\obj\Debug\net6.0\Seminar7C#.pdb
+C:\Users\user\Desktop\Обучение\Examples\Examples\Seminar7C#\obj\Debug\net6.0\Seminar7C#.genruntimeconfig.cache
+C:\Users\user\Desktop\Обучение\Examples\Examples\Seminar7C#\obj\Debug\net6.0\ref\Seminar7C#.dll
