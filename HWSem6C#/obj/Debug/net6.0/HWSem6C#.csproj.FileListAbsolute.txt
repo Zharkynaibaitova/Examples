@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Обучение\Examples\Examples\HWSem6C#\bin\Debug\net6.0\HWSem6C#.exe
+C:\Users\user\Desktop\Обучение\Examples\Examples\HWSem6C#\bin\Debug\net6.0\HWSem6C#.deps.json
+C:\Users\user\Desktop\Обучение\Examples\Examples\HWSem6C#\bin\Debug\net6.0\HWSem6C#.runtimeconfig.json
+C:\Users\user\Desktop\Обучение\Examples\Examples\HWSem6C#\bin\Debug\net6.0\HWSem6C#.dll
+C:\Users\user\Desktop\Обучение\Examples\Examples\HWSem6C#\bin\Debug\net6.0\HWSem6C#.pdb
+C:\Users\user\Desktop\Обучение\Examples\Examples\HWSem6C#\obj\Debug\net6.0\HWSem6C#.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Обучение\Examples\Examples\HWSem6C#\obj\Debug\net6.0\HWSem6C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Обучение\Examples\Examples\HWSem6C#\obj\Debug\net6.0\HWSem6C#.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Обучение\Examples\Examples\HWSem6C#\obj\Debug\net6.0\HWSem6C#.AssemblyInfo.cs
+C:\Users\user\Desktop\Обучение\Examples\Examples\HWSem6C#\obj\Debug\net6.0\HWSem6C#.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Обучение\Examples\Examples\HWSem6C#\obj\Debug\net6.0\HWSem6C#.dll
+C:\Users\user\Desktop\Обучение\Examples\Examples\HWSem6C#\obj\Debug\net6.0\refint\HWSem6C#.dll
+C:\Users\user\Desktop\Обучение\Examples\Examples\HWSem6C#\obj\Debug\net6.0\HWSem6C#.pdb
+C:\Users\user\Desktop\Обучение\Examples\Examples\HWSem6C#\obj\Debug\net6.0\HWSem6C#.genruntimeconfig.cache
+C:\Users\user\Desktop\Обучение\Examples\Examples\HWSem6C#\obj\Debug\net6.0\ref\HWSem6C#.dll
