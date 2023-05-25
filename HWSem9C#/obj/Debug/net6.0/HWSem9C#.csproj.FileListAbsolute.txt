@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Examples\Examples\HWSem9C#\bin\Debug\net6.0\HWSem9C#.exe
+C:\Users\user\Desktop\Examples\Examples\HWSem9C#\bin\Debug\net6.0\HWSem9C#.deps.json
+C:\Users\user\Desktop\Examples\Examples\HWSem9C#\bin\Debug\net6.0\HWSem9C#.runtimeconfig.json
+C:\Users\user\Desktop\Examples\Examples\HWSem9C#\bin\Debug\net6.0\HWSem9C#.dll
+C:\Users\user\Desktop\Examples\Examples\HWSem9C#\bin\Debug\net6.0\HWSem9C#.pdb
+C:\Users\user\Desktop\Examples\Examples\HWSem9C#\obj\Debug\net6.0\HWSem9C#.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Examples\Examples\HWSem9C#\obj\Debug\net6.0\HWSem9C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Examples\Examples\HWSem9C#\obj\Debug\net6.0\HWSem9C#.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Examples\Examples\HWSem9C#\obj\Debug\net6.0\HWSem9C#.AssemblyInfo.cs
+C:\Users\user\Desktop\Examples\Examples\HWSem9C#\obj\Debug\net6.0\HWSem9C#.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Examples\Examples\HWSem9C#\obj\Debug\net6.0\HWSem9C#.dll
+C:\Users\user\Desktop\Examples\Examples\HWSem9C#\obj\Debug\net6.0\refint\HWSem9C#.dll
+C:\Users\user\Desktop\Examples\Examples\HWSem9C#\obj\Debug\net6.0\HWSem9C#.pdb
+C:\Users\user\Desktop\Examples\Examples\HWSem9C#\obj\Debug\net6.0\HWSem9C#.genruntimeconfig.cache
+C:\Users\user\Desktop\Examples\Examples\HWSem9C#\obj\Debug\net6.0\ref\HWSem9C#.dll
