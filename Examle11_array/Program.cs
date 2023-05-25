@@ -17,7 +17,7 @@ void PrintArray(int[] col)
     while (position < count)
     {
         Console.WriteLine(col[position]);
-        position++; 
+        position++;
     }
 }
 
@@ -29,9 +29,9 @@ int Index0f(int[] collection, int find)
     int index = 0;
     int position = -1;
 
-    while(index < count)
+    while (index < count)
     {
-        if(collection[index] == find)
+        if (collection[index] == find)
         {
             position = index;
             break;
