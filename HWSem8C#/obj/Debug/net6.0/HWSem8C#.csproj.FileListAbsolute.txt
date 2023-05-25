@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Examples\Examples\HWSem8C#\bin\Debug\net6.0\HWSem8C#.exe
+C:\Users\user\Desktop\Examples\Examples\HWSem8C#\bin\Debug\net6.0\HWSem8C#.deps.json
+C:\Users\user\Desktop\Examples\Examples\HWSem8C#\bin\Debug\net6.0\HWSem8C#.runtimeconfig.json
+C:\Users\user\Desktop\Examples\Examples\HWSem8C#\bin\Debug\net6.0\HWSem8C#.dll
+C:\Users\user\Desktop\Examples\Examples\HWSem8C#\bin\Debug\net6.0\HWSem8C#.pdb
+C:\Users\user\Desktop\Examples\Examples\HWSem8C#\obj\Debug\net6.0\HWSem8C#.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Examples\Examples\HWSem8C#\obj\Debug\net6.0\HWSem8C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Examples\Examples\HWSem8C#\obj\Debug\net6.0\HWSem8C#.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Examples\Examples\HWSem8C#\obj\Debug\net6.0\HWSem8C#.AssemblyInfo.cs
+C:\Users\user\Desktop\Examples\Examples\HWSem8C#\obj\Debug\net6.0\HWSem8C#.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Examples\Examples\HWSem8C#\obj\Debug\net6.0\HWSem8C#.dll
+C:\Users\user\Desktop\Examples\Examples\HWSem8C#\obj\Debug\net6.0\refint\HWSem8C#.dll
+C:\Users\user\Desktop\Examples\Examples\HWSem8C#\obj\Debug\net6.0\HWSem8C#.pdb
+C:\Users\user\Desktop\Examples\Examples\HWSem8C#\obj\Debug\net6.0\HWSem8C#.genruntimeconfig.cache
+C:\Users\user\Desktop\Examples\Examples\HWSem8C#\obj\Debug\net6.0\ref\HWSem8C#.dll
